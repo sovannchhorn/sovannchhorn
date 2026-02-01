@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Chhorn%20Sovann&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Building%20Digital%20Experiences&descAlignY=51&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=CHHORN%20SOVANN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Building%20Digital%20Experiences&descAlignY=51&descAlign=50"/>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Frontend+%2B+Backend+Developer;Angular+%7C+Nuxt.js+%7C+Laravel;Always+Learning+New+Tech;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
@@ -13,7 +13,7 @@
   <a href="https://t.me/sovannchhorn04">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://github.com/CHHORN-SOVANN">
+  <a href="https://github.com/sovannchhorn">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>

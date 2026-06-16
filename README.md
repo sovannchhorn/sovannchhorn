@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CHHORN%20SOVANN&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Building%20Digital%20Experiences&descAlignY=55&descAlign=50"/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&height=100&lines=Frontend+%2B+Backend+Developer;Angular+%7C+Nuxt.js+%7C+Vue.js;Laravel+%7C+ASP.NET+Core+%7C+REST+APIs;Building+POS+%26+Web+Systems;Always+Learning+New+Tech;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&height=100&lines=Frontend+%2B+Backend+Developer;Angular+%7C+Nuxt.js+%7C+Vue.js;Laravel+%7C+ASP.NET+Core+%7C+REST+APIs;Building+POS+%26+Web+Systems;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 <p>
